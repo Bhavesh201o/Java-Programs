@@ -1,0 +1,1 @@
+This repository is used for practicing the class work java programs.
